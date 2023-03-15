@@ -1,0 +1,345 @@
+---
+
+- taxonomy: 综合
+  icon: fa-star
+  links:
+    - title: 免费清单
+      url: https://free-for.dev/#/
+    - title: 掘金优秀开源项目
+      url: https://juejin.cn/pin/club/6824710203196309518
+    - title: 热门排行
+      url: https://www.buzzing.cc/
+    - title: golangexample
+      url: https://golangexample.com/
+    - title: 代码搜索
+      url: https://sourcegraph.com/ 
+    - title: linux发行版
+      url: https://distrowatch.com/
+    - title: 另一个导航
+      url: https://hao.bioitee.com/
+    - title: golang 导航
+      url: https://hao.studygolang.com/
+    - title: 好工具周刊
+      url: https://bestxtools.zhubai.love/
+    - title:  GitHub repo folks 
+      url: https://techgaun.github.io/active-forks/
+    - title: ossinsight
+      url: https://ossinsight.io/
+    - title: 阿里云开发者社区
+      url: https://developer.aliyun.com/
+    - title: 腾讯云云社区
+      url: https://cloud.tencent.com/developer
+    - title: 今日头条
+      url: https://www.toutiao.com/
+    - title: 微信读书
+      url: https://weread.qq.com/
+    - title: https://greasyfork.org/zh-CN
+      url: 浏览器脚本安装
+    - title: 抖音
+      url: https://www.douyin.com/
+    - title: 什么值得买
+      url: https://www.smzdm.com/
+    - title: bilibili
+      url: https://www.bilibili.com/
+    - title: dev.to
+      url: https://dev.to/
+    - title: segmentfault
+      url: https://segmentfault.com/
+    - title: pmcaff
+      url: https://www.pmcaff.com/
+    - title: reddit
+      url: https://www.reddit.com/
+    - title: InfoQ
+      url: https://www.infoq.cn/
+    - title: 阮一峰的网络日志
+      url: https://www.ruanyifeng.com/
+    - title: hacknews
+      url: https://news.ycombinator.com/
+    - title: hellogithub
+      url: https://hellogithub.com/
+    - title: oschina
+      url: https://www.oschina.net/
+    - title: v2ex
+      url: https://www.v2ex.com/
+    - title: Producthunt
+      url: https://www.producthunt.com/
+    - title: Youtube
+      url: https://www.youtube.com/
+    - title: learnku
+      url: https://learnku.com/
+    - title: w2solo
+      url: https://w2solo.com/
+    - title: 创造者社区
+      url: https://creatorsdaily.com/
+    - title: 电鸭
+      url: https://eleduck.com/
+    - title: opensourcelibs
+      url: https://opensourcelibs.com/
+    - title: 产品大师
+      url: https://www.pmdaniu.com/explore
+    - title: 中国独立博客
+      logo:  assets/images/logos/dribbble.png 
+      url: https://github.com/timqian/chinese-independent-blogs
+    - title: fm广播
+      url: https://sao.fm/
+    - title: 西游记
+      url: http://xiyouji.org/
+    - title: bilibili电影
+      url: https://space.bilibili.com/15773384
+- taxonomy: 开发工具
+  icon: fa-wrench
+  links:
+    - title: 代码在线执行
+      url: https://www.tutorialspoint.com/codingground.htm
+    - title: jsoncrack
+      url: https://jsoncrack.com/editor
+    - title: apifox
+      url: https://www.apifox.cn/
+    - title: codegen
+      url: https://cloud.codegen.cc/
+    - title: json格式化
+      url: https://www.jsont.run/
+    - title: google 开发
+      url: https://shell.cloud.google.com/
+    - title: gitpod
+      url: https://www.gitpod.io/
+    - title: 程序员工具箱
+      url: https://cloud.codegen.cc/
+    - title: 镜像
+      url: https://mirrorz.org/
+    - title: jsonvisio
+      url: https://jsonvisio.com/editor
+    - title: 类postman
+      url: https://hoppscotch.io/cn/
+    - title: 隐私政策生成
+      url: https://toolbox.yolo.blue/#/privacy-policy
+    - title: gitlab
+      url: https://gitlab.com/
+    - title: 宝塔
+      url: http://bt.eduxplus.com:8889/tcloud
+    - title: cloudflare
+      url: https://dash.cloudflare.com/
+    - title: github.dev
+      url: https://github.dev/
+    - title: golang palyground
+      url: https://play.golang.org/
+    - title: 产品设计工具figma
+      url: https://www.figma.com/
+    - title: favicon 制作
+      url: https://quanxin.org/favicon
+    - title: pythonplayground
+      url: https://futurecoder.io/course/#ide
+    - title: laravelplayground
+      url: https://laravelplayground.com/#/?php=81
+    - title: jsonview
+      url: https://www.bejson.com/jsonviewernew/
+    - title: chinaz coderun
+      url: https://ntool.chinaz.com/coderun
+    - title: tools.fun
+      url: https://tools.fun/
+    - title: yamlchecker
+      url: https://yamlchecker.com/
+    - title: regex101
+      url: https://regex101.com/
+    - title: 在线crontab
+      url: https://tool.lu/crontab/
+    - title: wifi二维码
+      url: https://wificard.io/
+    - title: 域名注册
+      url: https://namebeta.com/
+    - title: 域名注册2
+      url: https://www.nazhumi.com/
+    - title: tableconvert
+      url: https://tableconvert.com
+    - title: google trends
+      url: https://trends.google.com/
+    - title: favicon制作2
+      url: https://bingoicon.com/font
+    - title: 模板购买
+      url: https://themeforest.net/
+- taxonomy: 其他工具
+  icon: fa-book
+  links: 
+    - title: 模板市场
+      url: https://themeforest.net/
+    - title: txt阅读
+      url: https://tiansh.github.io/reader/#!
+    - title: app生成
+      url: https://github.com/nativefier/nativefier
+- taxonomy: 笔记&效率工具
+  icon: fa-book
+  links:
+    - title: notion
+      url: https://www.notion.so/
+    - title: 幕布
+      url: https://mubu.com/
+    - title: onenote
+      url: https://www.onenote.com
+    - title: 百度脑图
+      url: https://naotu.baidu.com/
+    - title: flomo
+      url: https://flomoapp.com/
+    - title: todo
+      url: https://to-do.live.com/
+    - title: azure
+      url: https://dev.azure.com/liever/setting/_wiki/wikis/TechDocs
+    - title: 微云
+      url: https://www.weiyun.com/disk
+    - title: 有道云
+      url: https://note.youdao.com/
+
+
+- taxonomy: 手册
+  icon: fa-book
+  links:
+    - title: 铜钟 
+      url: https://tonzhon.com/
+    - title: umijs
+      url: https://umijs.org/docs/introduce/introduce
+    - title: devdocs
+      url: https://devdocs.io/
+    - title: linux命令搜索
+      url: https://linux.utils.fun/
+    - title: tailwindcss
+      url: https://tailwindcss.com/docs/installation
+    - title: 速查手册
+      url: https://cheatsheet.wang/
+    - title: hugo 文档
+      url: https://www.gohugo.org/doc/
+    - title: symfony
+      url: https://symfony.com/doc/current/index.html
+    - title: hyperf
+      url: https://hyperf.wiki/2.2/#/
+    - title: jquery
+      url: https://jquery.cuishifeng.cn/
+    - title: elementUI
+      url: https://element.eleme.cn/#/zh-CN/component/installation
+    - title: hutool
+      url: https://www.hutool.cn/docs/#/
+    - title: mybatis-plus
+      url: https://baomidou.com/
+    - title: twig手册
+      url: https://www.kancloud.cn/yunye/twig-cn/159454
+    - title: freemarker手册
+      url: http://freemarker.foofun.cn/toc.html
+    - title: sa-token手册
+      url: https://sa-token.dev33.cn/
+    - title: go标准库文档
+      url: https://studygolang.com/pkgdoc
+    - title: go基础
+      url: https://www.topgoer.com/go%E5%9F%BA%E7%A1%80/
+    - title: goorm手册
+      url: https://gorm.io/zh_CN/
+    - title: layui手册
+      url: https://www.layui.site/
+    - title: laravel手册
+      url: https://learnku.com/docs/laravel/8.5/installation/10359
+    - title: 廖雪峰学习
+      url: https://www.liaoxuefeng.com/
+    - title: gf2手册
+      url: https://goframe.org/display/gf 
+    - title: redis 手册
+      url: https://www.redis.net.cn/
+
+- taxonomy: 在线学习
+  icon: fa-diamond
+  links: 
+      - title: 书栈网
+        url: https://www.bookstack.cn/
+      - title: 阿里云知行动手实验室
+        url: https://start.aliyun.com/
+      - title: 对线面试官
+        url: http://javainterview.gitee.io/luffy/
+      - title: 网道
+        url: https://wangdoc.com/
+      - title: python 在线学习
+        url: https://python-world.github.io/python-mini-projects/#/
+      - title: 计算机自学指南
+        url: https://csdiy.wiki/
+      - title: 跟我一起写makefile
+        url: https://seisman.github.io/how-to-write-makefile/
+- taxonomy: 素材资源
+  icon: fa-thumbs-up
+  list: 
+    - term: 图标素材
+      links:
+        - title: jquery插件库
+          url: https://www.jq22.com/
+        - title: Iconfinder
+          url: https://www.iconfinder.com
+        - title: iconfont
+          url: http://www.iconfont.cn/
+        - title: 插图
+          url: https://undraw.co/illustrations
+        - title: 必应壁纸
+          url: https://bing.ioliu.cn/
+        - title: 精美插图
+          url: https://storyset.com/
+    - term: 设计
+      links:
+        - title: 自动生成海报
+          url: https://www.gaoding.com/
+        - title: app截图
+          urL: https://theapplaunchpad.com
+        - title: logoly
+          url: https://www.logoly.pro/#/
+        - title: Iconsfeed
+          url: http://www.iconsfeed.com/
+        - title: iOS Icon Gallery
+          url: http://iosicongallery.com/
+        - title: World Vector Logo
+          url: https://worldvectorlogo.com/
+        - title: Instant Logo Search
+          url: http://instantlogosearch.com/
+
+- taxonomy: 常用工具
+  icon: fa-diamond
+  links:
+    - title: sql在线执行
+      url: https://www.db-fiddle.com/
+    - title: free-api
+      url: https://www.free-api.com/
+    - title: 百度统计
+      url: https://tongji.baidu.com/
+    - title: tinypng
+      url: https://tinypng.com/
+    - title: goqr
+      url: http://goqr.me/
+    - title: ezgif
+      url: https://ezgif.com
+    - title: screen sizes
+      url: http://screensiz.es/
+    - title: svgomg
+      url: https://jakearchibald.github.io/svgomg/
+    - title: 稿定抠图
+      url: https://www.gaoding.com
+    - title: 抠图
+      url:  https://www.erase.bg/en/
+    - title: dll查找下载
+      url: https://cn.dll-files.com/
+    - title: 起名
+      url: http://xiaosang.net/gushi_namer/
+- taxonomy: 下载&视频
+  icon: fa-diamond
+  links: 
+      - title: gatsby
+        url: https://gatsby.video/
+      - title: youtubedr
+        url: https://github.com/kkdai/youtube
+      - title: 下载工具
+        url: https://d.serctl.com/
+      - title: mac软件下载
+        url: https://www.macappbox.com/
+      - title: tv
+        url: https://eja.tv/
+      - title: 视频音频下载
+        url: https://github.com/KurtBestor/Hitomi-Downloader
+      - title: 人人影视资源
+        url: https://yyets.dmesg.app/search
+      - title: 临时文件存储
+        url: https://send.ioiox.com/
+      - title: 局域网文件快速分享
+        url: https://drop.ioiox.com/
+      - title: 泛域名证书申请
+        url: https://ssl.ioiox.com/
+        
