@@ -6,7 +6,7 @@ preserveTaxonomyNames = true
 disablePathToLower = true
 hasCJKLanguage = true
 publishdir = "docs"
-copyright = ""
+copyright = "2023"
 [params]
   author = "shliv.com"
   description = "网址导航"

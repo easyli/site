@@ -157,11 +157,15 @@
       url: https://bingoicon.com/font
     - title: 模板购买
       url: https://themeforest.net/
+    - title: MS UWP 下载
+      url: https://store.rg-adguard.net/
+    - title: 码上掘金
+      url: https://code.juejin.cn/
 - taxonomy: 其他工具
   icon: fa-book
   links: 
-    - title: 模板市场
-      url: https://themeforest.net/
+    - title: 爱学术
+      url: https://book.ixueshu.com/
     - title: txt阅读
       url: https://tiansh.github.io/reader/#!
     - title: app生成
